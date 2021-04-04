@@ -66,10 +66,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
   ## Code Sample
   As seen below, the components are imported into this document so that they can be used as needed.
-  <img src="./public/assets/samplecode.png" alt="Employee-Directory"/>
+  <img src="public/assets/samplecode.png" alt="Employee-Directory"/>
 
   ## Screenshots
-  <img src="./public/assets/screenshot.png" alt="Employee-Directory"/>
+  <img src="public/assets/screenshot.png" alt="Employee-Directory"/>
 
   ## License
   MIT License - see the [LICENSE.txt](https://github.com/tussingj89/Employee-Directory/blob/main/LICENSE.txt) file for details
