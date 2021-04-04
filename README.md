@@ -1,14 +1,33 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  
+  # Employee-Directory
+ 
+  ## Description
+  This project uses React to build an employee directory. With React, a webpage can be broken into components to make debugging coding issues easier.
+  
+  ## Table of Contents
+  - [Title](#Title)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Screenshots](#screenshots)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
+  - [Additional Information](#additional-information)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions and Feedback](#questions-and-feedback)
 
-## Available Scripts
+  ## Installation
+   This project is deployed at: https://tussingj89.github.io/employee-directory/
+
+   ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
@@ -39,32 +58,26 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+  ## Usage
+  This project's focus is for an employee/employer to be able to view non-sensitive information about their coworkers.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  ## Technologies Used:
+  React, HTML, CSS, Bootstrap, and Axios
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ## Code Sample
+  As seen below, the components are imported into this document so that they can be used as needed.
+  <img src="./assets/sampleCode.png" alt="Employee-Directory"/>
 
-### Code Splitting
+  ## Screenshots
+  <img src="./assets/screenshot.mp4" alt="Employee-Directory"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  ## License
+  MIT License - see the [LICENSE.txt](https://github.com/tussingj89/Employee-Directory/blob/main/LICENSE.txt) file for details
+  
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  ## Contributing
+  
+  ## Questions and Feedback
+  Please contact me using one of the following:
+  - Github: [tussingj89](https://gist.github.com/tussingj89)
+  - Email: tussing40@gmail.com
